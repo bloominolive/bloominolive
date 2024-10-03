@@ -13,6 +13,9 @@ I am René Olive, currently a student at BYUI working on a degree in Software De
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 - Profient with Figma, Bootstrap, ReactBootstrap, and React
+- FlapMap Project: https://main--delicate-cobbler-f882fd.netlify.app/index.html
+- Bountiful Foods Project: https://bloominolive.github.io/wdd230/bountiful/index.html
+- Chamber of Commerce Project: https://bloominolive.github.io/wdd230/chamber/index.html
 
 ## Connect With Me 
 - Find me on LinkedIn at www.linkedin.com/in/renelolive
