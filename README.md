@@ -3,7 +3,7 @@ Hello!
 I am René Olive, currently a student at BYUI working on a degree in Software Development with a focus on UI/UX and frontend web development. 
 
 ## About Me
-- I am almost done with my degree! I should have it by July 2025
+- I am almost done with my degree! I should have it by April 2025
 - My goals are to get my degree and excel in the field of UI/UX design and web development. I would love to work with small businesses, artists, or community programs to enhance their web presence. 
 
 ## Technology and Tools
